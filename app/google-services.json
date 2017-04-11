@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956262031310",
+    "firebase_url": "https://realtimeupdate-e124d.firebaseio.com",
+    "project_id": "realtimeupdate-e124d",
+    "storage_bucket": "realtimeupdate-e124d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956262031310:android:db54dea724d74f87",
+        "android_client_info": {
+          "package_name": "com.speedautosystems.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956262031310-3ectr0sq5si737c0a228egvalsj6k1r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speedautosystems.firebaseproject",
+            "certificate_hash": "D4D37FAAF08008AD08A8E9EFBE00795508C81C90"
+          }
+        },
+        {
+          "client_id": "956262031310-u190mgtmfbp61kn8794uhrghbaum1t9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWGf_7RJ7wK0PPnKrmBi5wXp4SxczAXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956262031310-u190mgtmfbp61kn8794uhrghbaum1t9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

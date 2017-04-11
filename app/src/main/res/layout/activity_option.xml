@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/send_loc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send User Location"
+        android:layout_margin="16dp"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/track_loc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Track User Location"
+        android:layout_margin="16dp"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/set_loc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Pickup Location"
+        android:layout_margin="16dp"
+        />
+
+</LinearLayout>
